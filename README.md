@@ -14,6 +14,8 @@ seaborn
 ```
 
 ## Versioning
+v1.1:
+* Updated the header of the notebook with some additional info.
 
 v1.0:
 * Having fun with the code.
